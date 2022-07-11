@@ -1,15 +1,25 @@
 # Lesson3
 
 ## organize
-组织
 
-`reorganize 重组`
-`disorganized 无组织的、无条理的`
-`organization 组织、机构`
+<details>
+<summary>释义</summary>
+组织
+<hr>
+reorganize 重组
+<br>
+disorganized 无组织的、无条理的
+<br>
+organization 组织、机构
+</details>
+
+`reorganize`
+`disorganized`
+`organization`
 
 > He agree to organize the company picnic. 
 >
->  It's a non-profit organiztion.
+> It's a non-profit organiztion.
 
 
 ## arrange
