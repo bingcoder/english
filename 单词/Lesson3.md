@@ -46,6 +46,7 @@ flexibly 灵活地
 <br>
 flexibility 灵活性
 </details>
+
 `flexibly`
 `flexibility`
 
@@ -190,4 +191,5 @@ distract sb from  使某人分心
 <br>
 be adequate to the job
 </details>
+
 `be adequate to the job`
