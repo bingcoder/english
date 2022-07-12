@@ -193,3 +193,113 @@ be adequate to the job
 </details>
 
 `be adequate to the job`
+
+## sufficient
+<details>
+<summary>释义</summary>
+足够的、充分的
+<br>
+sufficiency 充足
+</details>
+`sufficiency`
+
+
+> Many People working and living in the city don't have sufficient sleep;
+
+## deficient
+
+<details>
+<summary>释义</summary>
+缺乏的
+<br>
+deficiency 缺乏
+</details>
+
+`deficiency`
+
+## efficient
+
+<details>
+<summary>释义</summary>
+效率高的
+<br>
+efficiency 效率
+inefficient 低效的
+effective 有效的
+</details>
+
+`efficiency`
+
+`inefficient`
+
+`effective`
+
+> One of aims of economic reform is to improve efficiency.
+
+## competent
+
+<details>
+<summary>释义</summary>
+有能力的
+<br>
+competence 能力
+</details>
+
+`competence`
+
+> He is a not competent driver .
+
+## proficiency
+
+<details>
+<summary>释义</summary>
+精通
+<br>
+proficient 精通
+</details>
+
+`proficient`
+
+> Nick's proficiency in French is well-known.
+
+## potential
+
+<details>
+<summary>释义</summary>
+潜在的、潜力
+</details>
+
+> If you don't have self-confidence, your potential won't grow.
+
+## fruitful
+
+<details>
+<summary>释义</summary>
+多产的、富有成效的
+</details>
+
+## advantage
+
+<details>
+<summary>释义</summary>
+优点、有利
+<br>
+advantageous 有利的
+<br>
+disadvantage 不利
+</details>
+
+`advantageous`
+
+`disadvantage`
+
+> Living in a big town has may advantages.
+
+## mutual
+
+<details>
+<summary>释义</summary>
+相互的、共同的
+</details>
+
+> mutual efforts / interest
