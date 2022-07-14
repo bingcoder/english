@@ -1,6 +1,7 @@
 # Lesson3
 
 ## organize
+
 <details>
 <summary>释义</summary>
 组织
@@ -22,6 +23,7 @@ organization 组织、机构
 
 
 ## arrange
+
 <details>
 <summary>释义</summary>
 安排
@@ -38,6 +40,7 @@ arrangement 安排、布置
 
 
 ## flexible
+
 <details>
 <summary>释义</summary>
 灵活的、易弯曲的
@@ -54,6 +57,7 @@ flexibility 灵活性
 
 
 ## subjective
+
 <details>
 <summary>释义</summary>
 主观的
@@ -71,6 +75,7 @@ objection 反对
 > They have raised no objection to the latest plan.
 
 ## significant
+
 <details>
 <summary>释义</summary>
 相当数量的、意义重大的
@@ -90,6 +95,7 @@ significance 意义、重要性
 > What's the significance of her actions.
 
 ## consider
+
 <details>
 <summary>释义</summary>
 （尤指为作出决定而）仔细考虑，细想to think about sth carefully, especially in order to make a decision
@@ -113,6 +119,7 @@ consideration 仔细考虑
 
 
 ## concentrate
+
 <details>
 <summary>释义</summary>
 全神贯注、集中（注意力）
@@ -136,6 +143,7 @@ absorption 专注
 > Newton was totally absorbed in his work.
 
 ## distract
+
 <details>
 <summary>释义</summary>
 使分心
@@ -151,6 +159,7 @@ distract sb from  使某人分心
 > The noise outside distract me from my reading.
 
 ## enormous
+
 <details>
 <summary>释义</summary>
 巨大的
@@ -159,6 +168,7 @@ distract sb from  使某人分心
 > The enormous storm system has been created in Canada.
 
 ## numerous
+
 <details>
 <summary>释义</summary>
 数量庞大的
@@ -167,16 +177,18 @@ distract sb from  使某人分心
 > New York City's numerous skyscrapers give the city its special character.
 
 ## approximate
+
 <details>
 <summary>释义</summary>
 大约的、近似的 | 近似
 </details>
 
-> What‘s the approximate size of this room.
+> What's the approximate size of this room.
 >
 > Your story approximate to the real facts.
 
 ## plentiful
+
 <details>
 <summary>释义</summary>
 丰富的
@@ -185,6 +197,7 @@ distract sb from  使某人分心
 > There are plentiful watermelon in the summer.
 
 ## adequate
+
 <details>
 <summary>释义</summary>
 充足的、胜任的
@@ -195,14 +208,15 @@ be adequate to the job
 `be adequate to the job`
 
 ## sufficient
+
 <details>
 <summary>释义</summary>
 足够的、充分的
 <br>
 sufficiency 充足
 </details>
-`sufficiency`
 
+`sufficiency`
 
 > Many People working and living in the city don't have sufficient sleep;
 
@@ -303,3 +317,102 @@ disadvantage 不利
 </details>
 
 > mutual efforts / interest
+
+## benefit
+
+<details>
+<summary>释义</summary>
+益处、有益于
+<br>
+benefit by/from sth 得益于。。
+<br>
+beneficial 有益的
+</details>
+
+`benefit by/from sth`
+`beneficial`
+
+> A balance diet and moderate amount of sports are beneficial to health.
+
+## valid
+
+<details>
+<summary>释义</summary>
+有根据的、有理的、有效的、具有法律效力的
+<br>
+validate 批准、证实
+<br>
+validity 有效性、合法性
+<br>
+invalid 无效的、病弱者
+</details>
+
+`validate`
+
+`invalid`
+
+## accurate
+
+<details>
+<summary>释义</summary>
+正确无误的、精准的
+<br>
+accuracy 准确性
+</details>
+
+> Are you sure your clock is accurate.
+
+## excess
+
+<details>
+<summary>释义</summary>
+过度、超过、额外的
+<br>
+in excess of 超过
+<br>
+to excess 过度
+<br>
+excessive 过度的
+</details>
+
+`excessive`
+
+> An excess of fat in one's diet can lead to heart disease.
+>
+> Excessive use of fertilizers can poison the soil.
+
+## urge
+
+<details>
+<summary>释义</summary>
+鼓励、强烈的愿望
+<br>
+urgent 急迫的
+</details>
+
+`urgent`
+
+> He is continually urge reform.
+>
+> The boy has a strong urge to learn.
+
+## tough
+
+<details>
+<summary>释义</summary>
+困难的、坚强的
+<br>
+</details>
+
+> It was a tough decision to make.
+>
+> Tough People manage well in adversity.
+
+## tense
+
+<details>
+<summary>释义</summary>
+紧张的、拉紧
+</details>
+
+> Eight months of tense negotiations finally ended in  a deal.
