@@ -670,87 +670,107 @@ n 柄
 ## 习题
 
 1. Writing is a slow process, requiring \_\_\_\_ thought, time, and effort.
+
    A. significant B. considerable C. enormous D. numerous
+
 2. The writer was so \_\_\_\_ in her work that she didn't notice him enter the room.
+
    A. absorbed B. abandoned C. focused D. centered
+
 3. All her energies are \_\_\_\_ upon her children and she seems to have little time for anything else.
+
    A. guided B. aimed C. directed D. focused
+
 4. They claim that \_\_\_\_ 1,000 factories closed down during the economic crisis.
+
    A. sufficiently B. approximately C. considerably D. properly
+
 5. The European Union countries were once worried that they would not have \_\_\_\_ supplies of petroleum.
+
    A. proficient B. efficient C. potential D. sufficient
+
 6. She is a very \_\_\_\_ secretary:she never forgets anything or makes a mistake.
+
    A. anxious B. effective C. adequate D. efficient
+
 7. They took \_\_\_\_ measures to prevent poisonous gases from escaping.
+
    A. fruitful B. beneficial C. valid D. effective
+
 8. By law, when one makes a large purchase, he should have \_\_\_\_ opportunity to change his mind.
+
    A. accurate B. urgent C. excessive D. adequate
+
 9. It’s very \_\_\_\_ of you not to talk aloud while the baby is asleep.
+
    A. concerned B. careful C. considerable D. considerate
+
 10. Since the matter was extremely \_\_\_\_ , we dealt with it immediately.
+
     A. tough B. tense C. urgent D. instant
+
 11. The statistical figures in that report are not \_\_\_\_ . You should not refer to them.
+
     A. accurate B. fixed C. delicate D. rigid
+
 12. One of his eyes was injured in an accident, but after a \_\_\_\_ operation, he quickly recovered
     his sight.
+
     A. delicate B. considerate C. precise D. sensitive
+
 13. During the process, great care has to be taken to protect the \_\_\_\_ silk from damage.
+
     A. sensitive B. tender C. delicate D. sensible
+
 14. The glass vessels should be handled most carefully since they are \_\_\_\_ .
+
     A. intricate B. fragile C. subtle D. crisp
+
 15. Some plants are very \_\_\_\_ to light;they prefer the shade.
+
     A. sensible B. flexible C. objective D. sensitive
+
 16. Some researchers feel that certain people have nervous systems particularly \_\_\_\_ to hot, dry winds. They are what we call weather-sensitive people.
+
     A. subjective B. subordinate C. liable D. vulnerable
+
 17. The reason why so many children like to eat this new brand of biscuit is that it is particularly sweet and \_\_\_\_ .
+
     A. fragile B. feeble C. brisk D. crisp
+
 18. Within two days, the army fired more than two hundred rockets and missiles at military \_\_\_\_ in the coastal city.
+
     A. goals B. aims C. targets D. destinations
+
 19. We have arranged to go to the cinema on Friday, but we can be \_\_\_\_ and go another day.
+
     A. reliable B. probable C. feasible D. flexible
+
 20. He has failed me so many times that I no longer place any \_\_\_\_ on what he promises.
-A. faith B. belief C. credit D. reliance
+
+    A. faith B. belief C. credit D. reliance
 
 <details>
 <summary>答案与译文</summary>
- 1.[B]写作是一个缓慢的过程，需要大量的思考、时间和努力。
- <br>
- 2.[A]这位作家如此专心于她的工作以至于未注意到他进入房间。
- <br>
- 3.[D]她所有的精力都集中在孩子身上，她似乎没有什么时间干别的事。
- <br>
- 4.[B]他们称在经济危机期间大约有1000家工厂倒闭。
- <br>
- 5.[D]欧洲共同体的国家曾经担心他们没有足够的石油供给。
- <br>
- 6.[D]她是个能干的秘书。她从来不犯错，从来不会忘记要干的事情。
- <br>
- 7.[D]他们采取了有效措施防止有毒气体泄漏。
- <br>
- 8.[D]依照法律，当一个人购买许多东西时，他应该有足够的机会可以改变主意。
- <br>
- 9.[D]你很体谅人，孩子睡觉时不大声说话。
- <br>
- 10.[C] 由于事情非常紧急，我们立即处理了它。
- <br>
- 11.[A]那份报告的统计数据不准确，你不应该以它们为参考。
- <br>
- 12.[A]在一次事故中，他的一只眼睛受了伤，但经过精细的手术之后，他的视力很快就恢复了。
- <br>
- 13.[C]在这个过程中，一定要十分小心，以免精美柔滑的丝绸受到损坏。
- <br>
- 14.[B]玻璃器皿必须非常小心轻放，因为它们易碎。
- <br>
- 15.[D]有些植物对光很敏感；它们喜欢在阴凉处生长。
- <br>
- 16.[D]有些研究人员认为某些人的神经系统特别易受干燥的热风影响。他们就是我们所称的天气敏感性人群。
- <br>
- 17.[D]那么多孩子喜欢吃这种新牌子的饼干是因为它特甜特脆。
- <br>
- 18.[C] 两天之内，军队向那个沿海城市的军事目标发射了两百多枚火箭和导弹。
- <br>
- 19.[D]我们已经安排周五去看电影，但是也可以灵活一点改天去。
- <br>
- 20.[D]他一次又一次地令我失望，我不再相信他的许诺。
-</details>
 
+1.  [B]写作是一个缓慢的过程，需要大量的思考、时间和努力。
+2.  [A]这位作家如此专心于她的工作以至于未注意到他进入房间。
+3.  [D]她所有的精力都集中在孩子身上，她似乎没有什么时间干别的事。
+4.  [B]他们称在经济危机期间大约有 1000 家工厂倒闭。
+5.  [D]欧洲共同体的国家曾经担心他们没有足够的石油供给。
+6.  [D]她是个能干的秘书。她从来不犯错，从来不会忘记要干的事情。
+7.  [D]他们采取了有效措施防止有毒气体泄漏。
+8.  [D]依照法律，当一个人购买许多东西时，他应该有足够的机会可以改变主意。
+9.  [D]你很体谅人，孩子睡觉时不大声说话。
+10. [C] 由于事情非常紧急，我们立即处理了它。
+11. [A]那份报告的统计数据不准确，你不应该以它们为参考。
+12. [A]在一次事故中，他的一只眼睛受了伤，但经过精细的手术之后，他的视力很快就恢复了。
+13. [C]在这个过程中，一定要十分小心，以免精美柔滑的丝绸受到损坏。
+14. [B]玻璃器皿必须非常小心轻放，因为它们易碎。
+15. [D]有些植物对光很敏感；它们喜欢在阴凉处生长。
+16. [D]有些研究人员认为某些人的神经系统特别易受干燥的热风影响。他们就是我们所称的天气敏感性人群。
+17. [D]那么多孩子喜欢吃这种新牌子的饼干是因为它特甜特脆。
+18. [C] 两天之内，军队向那个沿海城市的军事目标发射了两百多枚火箭和导弹。
+19. [D]我们已经安排周五去看电影，但是也可以灵活一点改天去。
+20. [D]他一次又一次地令我失望，我不再相信他的许诺。
+</details>
