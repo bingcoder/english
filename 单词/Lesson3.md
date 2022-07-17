@@ -18,9 +18,8 @@ organization 组织、机构
 `organization`
 
 > He agree to organize the company picnic. 
->
+> 
 > It's a non-profit organiztion.
-
 
 ## arrange
 
@@ -38,7 +37,6 @@ arrangement 安排、布置
 
 > I won't let my parents arrange a marriage for me.
 
-
 ## flexible
 
 <details>
@@ -55,7 +53,6 @@ flexibility 灵活性
 
 > We need a more flexible policy.
 
-
 ## subjective
 
 <details>
@@ -71,7 +68,7 @@ objection 反对
 `objection`
 
 > This is a very subjective judgment of her abilities.
->
+> 
 > They have raised no objection to the latest plan.
 
 ## significant
@@ -89,9 +86,9 @@ significance 意义、重要性
 `significance`
 
 > There is a significant increase of crime in that country. 
->
+> 
 > Penicillin was an extremely significant medical discovery.
->
+> 
 > What's the significance of her actions.
 
 ## consider
@@ -112,11 +109,10 @@ consideration 仔细考虑
 `consideration`
 
 > I have given considerable thought to the matter.
->
+> 
 > It's considerate of you to send me a postcard.
->
+> 
 > I leave it entirely to your kind consideration.
-
 
 ## concentrate
 
@@ -126,6 +122,7 @@ consideration 仔细考虑
 </details>
 
 ## absorb
+
 <details>
 <summary>释义</summary>
 吸收、使全神贯注、同化
@@ -139,7 +136,7 @@ absorption 专注
 `absorption`
 
 > Put some orange peelings in the refrigerator and they can absorb odd smell.
->
+> 
 > Newton was totally absorbed in his work.
 
 ## distract
@@ -184,7 +181,7 @@ distract sb from  使某人分心
 </details>
 
 > What's the approximate size of this room.
->
+> 
 > Your story approximate to the real facts.
 
 ## plentiful
@@ -378,7 +375,7 @@ excessive 过度的
 `excessive`
 
 > An excess of fat in one's diet can lead to heart disease.
->
+> 
 > Excessive use of fertilizers can poison the soil.
 
 ## urge
@@ -393,7 +390,7 @@ urgent 急迫的
 `urgent`
 
 > He is continually urge reform.
->
+> 
 > The boy has a strong urge to learn.
 
 ## tough
@@ -405,7 +402,7 @@ urgent 急迫的
 </details>
 
 > It was a tough decision to make.
->
+> 
 > Tough People manage well in adversity.
 
 ## tense
@@ -416,3 +413,132 @@ urgent 急迫的
 </details>
 
 > Eight months of tense negotiations finally ended in  a deal.
+
+## instant 
+
+<details>
+<summary>释义</summary>
+即刻的、紧急的、速溶的
+<br>
+instantly 立即、马上
+</details>
+
+`instantly`
+
+> The flood victims were in instant need of help.
+
+## cope
+
+<details>
+<summary>释义</summary>
+应付（~with）
+</details>
+
+> A family and a full time job is a lot to cope with.
+
+## handle
+
+<details>
+<summary>释义</summary>
+v.处理
+n 柄
+</details>
+
+> Computers can handle huge amounts of data.
+
+## rigid
+
+<details>
+<summary>释义</summary>
+严格的、刚硬的
+</details>
+
+## delicate
+
+<details>
+<summary>释义</summary>
+易碎的、微妙的
+	<br>
+    delicacy 精致、美味
+</details>
+
+`delicacy`
+
+> delicate china
+>
+> The current international situation is very delicate.
+
+## injure
+
+<details>
+<summary>释义</summary>
+伤害
+    <br>
+    injury 伤害
+</details>
+
+## painful
+
+<details>
+<summary>释义</summary>
+疼痛的、困难的
+</details>
+
+> The operation was very painful.
+>
+> Apply for jobs can be a long and painful process.
+
+## recovery
+
+<details>
+<summary>释义</summary>
+恢复、痊愈
+</details>
+
+> She made a quick recovery form her illness.
+
+## precise
+
+<details>
+<summary>释义</summary>
+精确的、严谨的
+    <br>
+    precison 精确（性）
+</details>
+
+`precision`
+
+> A lawyer needs a precise mind.
+
+## sensitive
+
+<details>
+<summary>释义</summary>
+敏感的
+    <br>
+    sensitivity 敏感性、灵敏度
+    <br>
+    insensitive 不顾他人感受的、感受迟钝的
+    <br>
+    sensible 明智的、合理的
+</details>
+
+`sensitivity`
+
+`insensitive`
+
+> a sensitive issue
+>
+> Belinda is sensitive to whatever people speak of her.
+
+## sentiment
+
+<details>
+<summary>释义</summary>
+意见
+    <br>
+    sentimental 情感的
+</details>
+
+`sentimental`
+
