@@ -537,8 +537,135 @@ n 柄
 <summary>释义</summary>
 意见
     <br>
-    sentimental 情感的
+    sentimental 情感的、情绪的
 </details>
+
 
 `sentimental`
 
+## tender
+
+<details>
+<summary>释义</summary>
+投标、提出、和善的
+</details>
+
+> He tendered a letter of resignation.
+>
+> submit a tender
+
+## fragile
+
+<details>
+<summary>释义</summary>
+易碎的、虚弱的
+</details>
+
+> These thin glass wares are fragile.
+
+## vulnerable
+
+<details>
+<summary>释义</summary>
+~ (to sb/sth)
+（身体上或感情上）脆弱的，易受…伤害的weak and easily hurt physically or emotionally
+</details>
+
+> Achilles was vulnerable only in his heel.
+
+## feeble
+
+<details>
+<summary>释义</summary>
+虚弱的、无效的
+</details>
+
+> One will feel feeble  when he is ill.
+
+## crisp
+
+<details>
+<summary>释义</summary>
+脆的、土豆片
+</details>
+
+> Bake until the pastry is golden and crisp.
+>
+> a packet of crisp.
+
+## subtle
+
+<details>
+<summary>释义</summary>
+微妙的、狡猾的
+    <br>
+    subtly 微细地、精巧地
+</details>
+
+`subtly`
+
+> His whole attitude has undergone a subtle change.
+>
+> a subtle plan.
+
+## rely
+
+<details>
+<summary>释义</summary>
+依靠
+    <br>
+    rely on
+    reliable 可靠的
+    reliability 可靠性
+    reliance 依靠
+    reliant 依赖的、依靠的
+</details>
+
+`reliable`
+
+`reliability`
+
+`reliance`
+
+`reliant`
+
+> They have to rely on the river for their water.
+
+## feasible
+
+<details>
+<summary>释义</summary>
+可行的
+</details>
+
+> It is feasible to apply the computer to language teaching.
+
+## explore
+
+<details>
+<summary>释义</summary>
+勘探、探索
+    <br>
+    explorer 探险家
+    <br>
+    exploration 勘探、探险
+    <br>
+    exploratory 勘探的、探测的
+</details>
+> Columbus discovered America but did not explore the new continent.
+>
+> explore for gold
+
+## probable
+
+<details>
+<summary>释义</summary>
+很可能的
+    <br>
+    probablility 可能性、概率
+    in all probability 十有八九
+</details>
+
+`probability`
+
+## 
