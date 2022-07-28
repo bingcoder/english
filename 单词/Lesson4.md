@@ -2,7 +2,13 @@
 
 ## enroll
 
-in the Sep temper we enroll in the school
+<details>
+<summary>释义</summary>
+~ in / on 入学
+</details>
+
+
+In the September we enroll in the school
 
 ## register
 
@@ -163,3 +169,48 @@ v 回答
 > There is an  exception to every rule.
 >
 > He has an exceptional memory.
+
+## estimate
+
+<details>
+<summary>释义</summary>
+估计
+    <br>
+    estimation 判断、估计
+    overestimate 高估
+    underestimate 低估
+</details>
+
+`estimation` `overestimate` `underestimate`
+
+> Now I‘ve realized that my estimate of her character was one-sided.
+>
+> The official figures are a gross underestimate of the true number.
+
+## assess
+
+<details>
+<summary>释义</summary>
+评估
+    <br>
+    assessment 评估、评定
+    reassessment 重新评估
+</details>
+
+`assessment` `reassessment`
+
+> The value of the house was assessed at $400000.
+
+## access
+
+<details>
+<summary>释义</summary>
+入口、接近
+    <br>
+    accessible 可接近的、可到达的
+    inaccessible 不可接近的
+</details>
+
+`accessible` `inaccessible`
+
+> This is the sole means of access to the building.
