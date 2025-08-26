@@ -1,2 +1,2 @@
 # English
-study english
+study english。
